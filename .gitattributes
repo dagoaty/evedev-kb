@@ -9,11 +9,15 @@
 *.xml eol=lf
 *.js eol=lf
 *.txt eol=lf
+config.data eol=lf
+checksums.sha1 eol=lf
+.htaccess eol=lf
 
 
 # Denote all files that are truly binary and should not be modified.
 *.png binary
 *.jpg binary
+*.gif binary
 *.gz binary
 *.zip binary
 *.ttf binary
